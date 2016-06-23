@@ -6,4 +6,6 @@ description: This is a chrome extension that enables astronomers to highlight an
 source-url: http://github.com/astrojonathan/StingRA
 live-url: 
 doi: 
-images: https://github.com/astrojonathan/StingRA/blob/master/StingRA400px.png, https://github.com/astrojonathan/StingRA/blob/master/ScreenShot.png
+images:
+    - StingRA400px.png
+    - ScreenShot.png
